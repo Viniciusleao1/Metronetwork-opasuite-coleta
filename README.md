@@ -1,4 +1,4 @@
-# Metronetwork-opasuite-coleta
+# Metro Network Opasuite Coleta
 
 **Repositório para desenvolvimento e manutenção de scripts de coleta de dados do Metro Network Opasuite.**
 
